@@ -10,3 +10,9 @@ Criar: Cadastrar novos clientes, incluindo informações como nome, CPF, endere�
 Ler: Listar todos os clientes cadastrados, com a possibilidade de filtrar por nome ou CPF.</br>
 Atualizar: Editar as informações de um cliente já cadastrado.</br>
 Deletar: Excluir um cliente do cadastro.</br>
+</br>
+Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:</br>
+</br>
+Linguagem de programação: Java8
+Banco de dados: MySQL
